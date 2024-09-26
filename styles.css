@@ -1,7 +1,9 @@
 h2{
     color: maroon;
 }
-body {background color: = "red"}
+body {
+    background-image: url("cultlogo.jpg");
+}
 
 h3{
     color: maroon;
