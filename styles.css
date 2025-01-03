@@ -10,5 +10,7 @@ h3{
 }
 
 body {
-    philisophicalpage.html: background-image: url('shrekthinking.jpg')
+    philisophicalpage.html: h1{
+        color: blue;
+}
 }
